@@ -4,6 +4,8 @@ import java.util.Iterator;
 
 public class Stringreverse {
 
+	
+	
 	public static void main(String[] args) {
 		
 		String s="javajava";
@@ -16,6 +18,7 @@ public class Stringreverse {
 		
 		r=r+c;
 		System.out.println(r);
+		System.out.println("tests");
 		}
 		
 		
